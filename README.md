@@ -20,7 +20,7 @@ Algorithm Design Project:
 - [@PrayasDas12](https://github.com/PrayasDas12) 
 <pre>Name:Prayas Das;          Registration Number:2041004033</pre>
 - [@ujjwalzero9](https://github.com/ujjwalzero9) 
-<pre>Name:Ujjwal Kumar ;       Registration Number:204101108</pre>
+<pre>Name:Ujjwal Kumar ;       Registration Number:2041011084</pre>
 
 ## Project Details
 - Linked-list−based data structures,\
